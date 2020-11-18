@@ -1,4 +1,4 @@
-FROM wodby/drupal-php:7.2
+FROM wodby/drupal-php:7.4
 
 USER root
 ENV WODBY_APP_NAME=terminus
